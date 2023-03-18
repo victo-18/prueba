@@ -31,7 +31,7 @@ body {
 
 .centrado {
     height: 100vh;
-    background-color: #784d3c;
+    /* background-color: #784d3c; */
     display: flex;
     justify-content: center;
     align-items: center;
